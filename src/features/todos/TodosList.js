@@ -1,4 +1,3 @@
-// add imports
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUpload } from '@fortawesome/free-solid-svg-icons';
 import { useState } from 'react';
